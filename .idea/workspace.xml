@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb1d31be-d976-4d82-8388-fbeb3e014eaf" name="Changes" comment="Aula métodos Senai exercicio 01" />
+    <list default="true" id="cb1d31be-d976-4d82-8388-fbeb3e014eaf" name="Changes" comment="Aula métodos Senai exercicio 02 com a classe decimal format" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +32,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -49,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1688947779503</updated>
       <workItem from="1688947780524" duration="274000" />
+      <workItem from="1689125819542" duration="695000" />
     </task>
     <task id="LOCAL-00001" summary="Aula métodos Senai">
       <option name="closed" value="true" />
@@ -66,7 +74,23 @@
       <option name="project" value="LOCAL" />
       <updated>1688948043726</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Aula métodos Senai exercicio 02">
+      <option name="closed" value="true" />
+      <created>1689126007711</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689126007711</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Aula métodos Senai exercicio 02 com a classe decimal format">
+      <option name="closed" value="true" />
+      <created>1689126073522</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689126073522</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +99,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aula métodos Senai" />
     <MESSAGE value="Aula métodos Senai exercicio 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula métodos Senai exercicio 01" />
+    <MESSAGE value="Aula métodos Senai exercicio 02" />
+    <MESSAGE value="Aula métodos Senai exercicio 02 com a classe decimal format" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula métodos Senai exercicio 02 com a classe decimal format" />
   </component>
 </project>
